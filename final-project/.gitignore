@@ -1,3 +1,5 @@
 /db-data
 myapp
 .vscode
+coverage.out
+/tmp
